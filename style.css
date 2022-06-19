@@ -1,0 +1,52 @@
+Some necessary adjustments
+h1, body, html, main {
+    margin: 0;
+  }
+/* body{
+    border: solid blue;
+} */
+  /*Import the font and set the default size*/
+  html {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px
+  }
+  .img2{
+    height: 250px;
+    width: 550px;
+    display:block;
+    margin:auto;
+    padding:2px;
+  }
+  .center{
+    display:block;
+    margin:auto;
+    padding:2px;
+
+  }
+  img{
+    height: 750px;
+    width: 1500px;
+  }
+p{
+    margin: 100px;
+    text-align:center;
+    font-size: 150%;
+}
+ul{
+    font-size: 30px;
+    /* margin: 150px; */
+    /* padding: 2px; */
+    margin: 90px;
+}
+h2{
+     margin: 90px; 
+    /* padding: 2px;  */
+
+}
+hr{
+    width: 1700px;
+}
+ol{
+    margin: 90px;
+    font-size: 30px;
+}
